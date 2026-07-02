@@ -1,0 +1,12 @@
+# SSMS / Visual Studio
+*.suo
+*.user
+.vs/
+
+# Local scratch scripts (not meant to be committed)
+scratch/
+*.local.sql
+
+# OS noise
+.DS_Store
+Thumbs.db
