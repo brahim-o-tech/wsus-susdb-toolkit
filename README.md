@@ -11,6 +11,15 @@ Points**. Built to recover a bloated or unresponsive SUSDB and restore
 reliable SCCM ↔ WSUS synchronization — without relying on undocumented SQL
 Server procedures.
 
+## ⚠️ Disclaimer
+
+This script is provided **as-is**, untested in a live environment.
+It is intended as a **lab/learning resource** for anyone who wants
+to test, validate, and contribute improvements.
+
+**Always backup your SUSDB before running any maintenance script.**
+Lab testing and contributions are welcome — see CONTRIBUTING.md.
+
 ---
 
 ## Table of contents
