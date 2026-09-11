@@ -268,7 +268,7 @@ not as public issues.
 
 ## Credits
 
-Authored and maintained by **Brahim Oubarka** — Azure / Identity & Security
+Authored and maintained by **Brahim O.** — Azure / Identity & Security
 Consultant. Built on top of Microsoft's officially published WSUS reindex
 script, extended with production-hardening informed by Microsoft Learn's
 current index-maintenance and compatibility-level guidance.
